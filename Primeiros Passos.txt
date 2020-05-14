@@ -1,0 +1,9 @@
+Ciração de um projeto Vue: 
+Instalar Vue Cli.
+
+Executar comandos:
+Vue create <Nome do Projeto>
+
+Vue add Vuetify <- framerowk para VueJs
+
+Vue add electron-builder <- Adicionando Electron ao projeto.
